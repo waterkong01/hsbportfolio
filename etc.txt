@@ -1,0 +1,16 @@
+    // $(window).scroll(function() {
+    //     var windowBottom = $(this).scrollTop() + $(this).innerHeight();
+
+    //     $(".slogan_icon img").each(function() {
+    //         var objectBottom = $(this).offset().top + $(this).outerHeight();
+
+    //         if (objectBottom < windowBottom) {
+    //             $('.icon1').animate({ opacity: 1, bottom: -7 + "vw" }, 1000);
+    //             $('.icon2').animate({ opacity: 1, top: 20 + "vw" }, 1300);
+    //             $('.icon3').animate({ opacity: 1, left: -5 + "vw" }, 900);
+    //             $('.icon4').animate({ opacity: 1, left: -4.5 + "vw", top: 13 + "vw" }, 1300);
+    //             $('.icon5').animate({ opacity: 1, left: -35 + "vw" }, 800);
+    //             $('.icon6').animate({ opacity: 1, top: 15 + "vw" }, 1300);
+    //         }
+    //     });
+    // });
